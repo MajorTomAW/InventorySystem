@@ -5,7 +5,20 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Unreal/Projects/InventorySystem/Content/Maps/DefaultMap.umap"
+				"D:/Unreal/Projects/InventorySystem/Content/Maps/DefaultMap.umap",
+				"D:/Unreal/Projects/InventorySystem/Content/EnhancedInput/IMC_PlayerInput.uasset",
+				"D:/Unreal/Projects/InventorySystem/Content/EnhancedInput/InputActions/IA_Move.uasset",
+				"D:/Unreal/Projects/InventorySystem/Content/EnhancedInput/InputActions/IA_Look.uasset",
+				"D:/Unreal/Projects/InventorySystem/Content/EnhancedInput/InputActions/IA_Jump.uasset",
+				"D:/Unreal/Projects/InventorySystem/Content/EnhancedInput/InputActions/AI_SecondaryFire.uasset",
+				"D:/Unreal/Projects/InventorySystem/Content/EnhancedInput/InputActions/AI_PrimaryFire.uasset",
+				"D:/Unreal/Projects/InventorySystem/Content/EnhancedInput/Actions/AI_PrimaryFire.uasset",
+				"D:/Unreal/Projects/InventorySystem/Content/EnhancedInput/Actions/AI_SecondaryFire.uasset",
+				"D:/Unreal/Projects/InventorySystem/Content/EnhancedInput/Actions/IA_Jump.uasset",
+				"D:/Unreal/Projects/InventorySystem/Content/EnhancedInput/Actions/IA_Look.uasset",
+				"D:/Unreal/Projects/InventorySystem/Content/EnhancedInput/Actions/IA_Move.uasset",
+				"D:/Unreal/Projects/InventorySystem/Content/Blueprints/GameLogic/Game/Components/BPC_InventoryBase.uasset",
+				"D:/Unreal/Projects/InventorySystem/Content/Blueprints/GameLogic/Game/Systems/Items/BP_WorldContainer.uasset"
 			]
 		}
 	]
