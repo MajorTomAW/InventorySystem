@@ -90,6 +90,9 @@
 				"D:/Unreal/Projects/InventorySystem/Content/EnhancedInput/Actions/IA_Look.uasset",
 				"D:/Unreal/Projects/InventorySystem/Content/EnhancedInput/Actions/IA_Move.uasset",
 				"D:/Unreal/Projects/InventorySystem/Content/Blueprints/InventorySystem/InventoryManager.uasset",
+				"D:/Unreal/Projects/InventorySystem/Content/Blueprints/InventorySystem/Structures/S_ItemInfo.uasset",
+				"D:/Unreal/Projects/InventorySystem/Content/Blueprints/InventorySystem/Structures/S_Inventory.uasset",
+				"D:/Unreal/Projects/InventorySystem/Content/Blueprints/InventorySystem/Structures/S_ItemContainer.uasset",
 				"D:/Unreal/Projects/InventorySystem/Content/Blueprints/GameLogic/Game/Components/BPC_InventoryBase.uasset",
 				"D:/Unreal/Projects/InventorySystem/Content/Blueprints/GameLogic/Game/Systems/Items/BP_WorldContainer.uasset"
 			]
