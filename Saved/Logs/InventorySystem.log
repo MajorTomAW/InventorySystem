@@ -1891,3 +1891,844 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.27-18.41.57:170][789]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
 [2023.11.27-18.41.59:040][794]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
 [2023.11.27-18.41.59:173][795]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.42.00:949][800]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.42.01:171][801]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.42.02:960][806]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.42.03:171][807]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.42.04:975][812]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.42.05:174][813]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.42.06:985][818]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.42.07:173][819]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.42.08:993][824]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.42.09:172][825]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.42.11:003][830]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.42.11:173][831]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.42.13:014][836]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.42.13:174][837]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.42.15:033][842]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.42.15:177][843]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.42.17:051][848]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.42.17:173][849]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.42.18:963][854]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.42.18:968][854]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.42.18:976][855]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/InventorySystem/InventoryManager.InventoryManager
+[2023.11.27-18.42.18:976][855]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-18.42.18:977][855]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-18.42.18:982][855]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2023.11.27-18.42.19:362][855]LogSlate: Took 0.000096 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.11.27-18.42.20:803][ 22]LogSlate: Window 'InventoryManager' being destroyed
+[2023.11.27-18.42.20:974][ 28]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.42.20:988][ 28]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.42.22:982][252]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.42.22:991][253]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.42.24:992][477]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.42.25:018][478]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.42.27:007][700]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.42.27:017][700]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.42.29:017][923]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.42.29:023][923]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.42.31:130][146]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.42.31:136][146]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.42.33:042][356]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.42.33:047][356]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.42.35:157][577]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.42.35:169][577]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.42.37:070][784]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.42.37:075][784]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.42.39:181][  3]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.42.39:190][  3]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.42.41:091][209]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.42.41:095][209]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.42.43:097][427]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.42.43:104][427]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.42.45:104][453]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.42.45:272][454]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.42.47:114][459]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.42.47:273][460]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.42.49:123][465]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.42.49:274][466]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.42.51:051][471]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.42.51:274][472]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.42.53:060][477]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.42.53:274][478]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.42.55:069][483]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.42.55:275][484]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.42.57:078][489]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.42.57:277][490]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.42.59:087][495]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.42.59:277][496]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.43.01:094][501]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.43.01:277][502]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.43.03:101][507]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.43.03:285][508]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.43.05:110][513]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.43.05:285][514]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.43.07:119][519]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.43.07:286][520]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.43.09:126][525]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.43.09:285][526]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.43.11:133][531]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.43.11:285][532]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.43.13:140][537]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.43.13:285][538]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.43.15:147][543]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.43.15:286][544]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.43.17:152][549]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.43.17:285][550]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.43.19:057][555]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.43.19:286][556]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.43.21:063][561]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.43.21:286][562]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.43.23:071][567]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.43.23:286][568]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.43.25:077][573]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.43.25:286][574]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.43.27:083][579]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.43.27:287][580]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.43.29:090][585]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.43.29:287][586]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.43.31:100][591]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.43.31:287][592]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.43.33:108][597]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.43.33:288][598]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.43.35:115][603]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.43.35:288][604]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.43.37:121][609]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.43.37:289][610]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.43.39:126][615]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.43.39:290][616]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.43.41:133][621]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.43.41:289][622]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.43.43:140][627]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.43.43:289][628]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.43.45:146][633]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.43.45:289][634]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.43.47:152][639]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.43.47:290][640]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.43.49:063][645]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.43.49:292][646]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.43.51:073][651]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.43.51:289][652]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.43.53:081][657]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.43.53:290][658]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.43.55:094][663]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.43.55:292][664]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.43.57:105][669]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.43.57:290][670]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.43.59:114][675]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.43.59:290][676]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.44.01:122][681]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.44.01:291][682]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.44.03:139][687]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.44.03:290][688]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.44.05:155][693]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.44.05:291][694]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.44.07:065][699]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.44.07:290][700]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.44.09:080][705]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.44.09:290][706]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.44.11:091][711]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.44.11:291][712]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.44.13:104][717]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.44.13:290][718]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.44.15:113][723]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.44.15:291][724]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.44.17:120][729]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.44.17:291][730]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.44.19:128][735]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.44.19:291][736]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.44.21:137][741]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.44.21:291][742]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.44.23:143][747]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.44.23:291][748]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.44.25:150][753]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.44.25:292][754]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.44.27:159][759]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.44.27:295][760]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.44.29:068][765]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.44.29:294][766]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.44.31:077][771]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.44.31:293][772]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.44.33:086][777]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.44.33:293][778]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.44.35:096][861]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.44.35:103][861]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.44.35:812][946]BlueprintLog: New page: Compile InventoryManager
+[2023.11.27-18.44.35:819][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.11.27-18.44.36:395][ 15]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-18.44.36:422][ 15]LogSavePackage: Moving output files for package: /Game/Blueprints/InventorySystem/InventoryManager
+[2023.11.27-18.44.36:422][ 15]LogSavePackage: Moving '../../../../../Unreal/Projects/InventorySystem/Saved/InventoryManager614B34944E7901037CBC7B9288751E99.tmp' to '../../../../../Unreal/Projects/InventorySystem/Content/Blueprints/InventorySystem/InventoryManager.uasset'
+[2023.11.27-18.44.36:427][ 15]LogFileHelpers: InternalPromptForCheckoutAndSave took 31 ms (total: 298 ms)
+[2023.11.27-18.44.36:427][ 15]AssetCheck: New page: Asset Save: InventoryManager
+[2023.11.27-18.44.36:427][ 15]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/InventorySystem/InventoryManager.InventoryManager
+[2023.11.27-18.44.37:103][ 81]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.44.37:110][ 81]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.44.39:110][305]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.44.39:115][305]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.44.41:120][529]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.44.41:126][529]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.44.43:127][752]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.44.43:132][752]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.44.45:140][975]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.44.45:148][975]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.44.47:147][195]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.44.47:153][195]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.44.49:158][415]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.44.49:171][415]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.44.51:165][635]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.44.51:171][635]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.44.53:172][854]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.44.53:181][854]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.11.27-18.44.53:182][854]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.44.53:184][854]LogContentBrowser: Creating deferred item: NewFolder
+[2023.11.27-18.44.53:187][855]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.11.27-18.44.55:187][ 75]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.44.55:195][ 75]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.44.55:936][164]LogContentBrowser: Attempting asset rename: NewFolder -> Structures
+[2023.11.27-18.44.55:938][164]LogContentBrowser: End creating deferred item NewFolder
+[2023.11.27-18.44.57:204][294]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.44.57:214][294]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.44.58:445][429]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2023.11.27-18.44.59:219][489]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.44.59:241][489]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.45.01:228][693]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.45.01:243][694]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.45.03:239][883]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.45.03:246][884]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.45.05:255][ 70]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.45.05:263][ 71]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.45.07:170][285]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.45.07:185][285]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.45.07:652][341]LogContentBrowser: Deferred new asset file creation: NewUserDefinedStruct
+[2023.11.27-18.45.07:656][341]LogContentBrowser: Creating deferred item: NewUserDefinedStruct
+[2023.11.27-18.45.07:667][343]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedStruct).
+[2023.11.27-18.45.09:177][511]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.45.09:182][511]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.45.11:189][738]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.45.11:195][738]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.45.12:045][840]LogContentBrowser: Attempting asset rename: NewUserDefinedStruct -> S_ItemInfo
+[2023.11.27-18.45.12:065][840]LogContentBrowser: End creating deferred item NewUserDefinedStruct
+[2023.11.27-18.45.12:470][889]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-18.45.12:492][889]LogSavePackage: Moving output files for package: /Game/Blueprints/InventorySystem/Structures/S_ItemInfo
+[2023.11.27-18.45.12:492][889]LogSavePackage: Moving '../../../../../Unreal/Projects/InventorySystem/Saved/S_ItemInfo592CBF5D4BB983B65B763297BBDD1C9E.tmp' to '../../../../../Unreal/Projects/InventorySystem/Content/Blueprints/InventorySystem/Structures/S_ItemInfo.uasset'
+[2023.11.27-18.45.12:497][889]LogFileHelpers: InternalPromptForCheckoutAndSave took 26 ms (total: 325 ms)
+[2023.11.27-18.45.12:497][889]AssetCheck: New page: Asset Save: S_ItemInfo
+[2023.11.27-18.45.12:497][889]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/Blueprints/InventorySystem/Structures/S_ItemInfo.S_ItemInfo
+[2023.11.27-18.45.13:197][960]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.45.13:203][960]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.45.15:204][186]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.45.15:210][186]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.45.17:213][412]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.45.17:218][412]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.45.17:552][452]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Blueprints/InventorySystem/Structures/S_ItemInfo.S_ItemInfo
+[2023.11.27-18.45.19:223][635]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.45.19:238][635]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.45.21:239][859]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.45.21:244][859]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.45.23:253][ 83]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.45.23:270][ 83]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.45.25:261][304]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.45.25:274][305]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.45.27:276][525]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.45.27:294][525]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.45.29:287][744]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.45.29:312][744]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.45.31:294][945]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.45.31:301][946]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.45.32:629][102]LogContentBrowser: Deferred new asset file creation: NewUserDefinedStruct
+[2023.11.27-18.45.32:632][102]LogContentBrowser: Creating deferred item: NewUserDefinedStruct
+[2023.11.27-18.45.32:634][103]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedStruct).
+[2023.11.27-18.45.33:305][166]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.45.33:327][166]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.45.35:317][386]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.45.35:323][386]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.45.35:815][445]LogContentBrowser: Attempting asset rename: NewUserDefinedStruct -> S_Inventory
+[2023.11.27-18.45.35:830][445]LogContentBrowser: End creating deferred item NewUserDefinedStruct
+[2023.11.27-18.45.36:837][566]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-18.45.36:862][566]LogSavePackage: Moving output files for package: /Game/Blueprints/InventorySystem/Structures/S_Inventory
+[2023.11.27-18.45.36:862][566]LogSavePackage: Moving '../../../../../Unreal/Projects/InventorySystem/Saved/S_InventoryC9B0FE2E4A1D9D5773E26188D28558A9.tmp' to '../../../../../Unreal/Projects/InventorySystem/Content/Blueprints/InventorySystem/Structures/S_Inventory.uasset'
+[2023.11.27-18.45.36:868][566]LogFileHelpers: InternalPromptForCheckoutAndSave took 31 ms (total: 356 ms)
+[2023.11.27-18.45.36:869][566]AssetCheck: New page: Asset Save: S_Inventory
+[2023.11.27-18.45.36:869][566]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/Blueprints/InventorySystem/Structures/S_Inventory.S_Inventory
+[2023.11.27-18.45.37:427][603]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.45.37:439][603]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.45.39:335][812]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.45.39:342][812]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.45.41:342][ 33]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.45.41:347][ 33]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.45.43:352][254]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.45.43:357][254]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.45.45:362][474]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.45.45:387][474]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.45.47:369][692]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.45.47:374][692]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.45.49:476][814]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.45.49:692][815]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.45.51:483][820]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.45.51:693][821]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.45.53:494][826]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.45.53:696][827]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.45.55:505][832]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.45.55:694][833]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.45.57:512][838]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.45.57:696][839]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.45.59:522][844]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.45.59:694][845]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.46.01:530][850]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.46.01:699][851]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.46.03:537][856]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.46.03:698][857]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.46.05:545][862]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.46.05:698][863]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.46.07:555][868]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.46.07:695][869]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.46.09:562][874]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.46.09:694][875]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.46.11:473][880]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.46.11:697][881]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.46.13:481][886]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.46.13:697][887]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.46.15:488][892]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.46.15:697][893]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.46.17:494][898]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.46.17:696][899]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.46.19:502][904]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.46.19:697][905]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.46.21:512][910]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.46.21:699][911]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.46.23:521][916]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.46.23:697][917]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.46.25:528][922]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.46.25:699][923]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.46.27:534][928]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.46.27:699][929]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.46.29:542][934]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.46.29:698][935]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.46.31:553][940]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.46.31:700][941]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.46.33:567][946]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.46.33:698][947]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.46.35:477][952]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.46.35:700][953]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.46.37:488][958]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.46.37:699][959]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.46.39:498][964]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.46.39:700][965]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.46.41:509][970]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.46.41:698][971]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.46.43:521][976]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.46.43:698][977]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.46.45:530][982]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.46.45:698][983]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.46.47:540][988]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.46.47:698][989]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.46.49:553][994]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.46.49:700][995]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.46.51:566][  0]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.46.51:700][  1]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.46.53:475][  6]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.46.53:698][  7]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.46.55:485][ 12]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.46.55:701][ 13]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.46.57:493][ 18]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.46.57:699][ 19]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.46.59:501][ 24]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.46.59:699][ 25]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.47.01:510][ 30]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.47.01:701][ 31]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.47.03:517][ 36]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.47.03:702][ 37]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.47.05:525][ 42]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.47.05:700][ 43]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.47.07:534][ 48]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.47.07:700][ 49]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.47.09:541][ 54]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.47.09:702][ 55]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.47.11:548][ 60]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.47.11:700][ 61]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.47.13:557][ 66]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.47.13:700][ 67]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.47.15:565][ 72]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.47.15:701][ 73]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.47.17:474][ 78]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.47.17:700][ 79]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.47.19:482][ 84]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.47.19:702][ 85]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.47.21:491][ 90]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.47.21:701][ 91]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.47.23:499][ 96]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.47.23:702][ 97]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.47.25:506][102]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.47.25:704][103]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.47.27:513][108]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.47.27:704][109]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.47.29:520][114]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.47.29:704][115]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.47.31:526][120]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.47.31:704][121]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.47.33:533][126]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.47.33:705][127]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.47.35:540][132]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.47.35:705][133]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.47.37:547][138]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.47.37:705][139]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.47.39:554][144]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.47.39:705][145]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.47.41:562][150]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.47.41:705][151]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.47.43:573][156]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.47.43:706][157]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.47.45:483][162]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.47.45:705][163]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.47.47:492][168]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.47.47:709][169]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.47.49:504][174]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.47.49:709][175]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.47.51:516][180]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.47.51:707][181]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.47.53:525][186]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.47.53:708][187]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.47.55:534][192]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.47.55:709][193]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.47.57:542][198]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.47.57:709][199]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.47.59:552][204]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.47.59:707][205]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.48.01:560][210]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.48.01:707][211]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.48.03:567][216]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.48.03:710][217]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.48.04:924][284]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Blueprints/InventorySystem/Structures/S_ItemInfo.S_ItemInfo
+[2023.11.27-18.48.05:575][337]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.48.05:580][337]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.48.05:815][360]LogSlate: Took 0.000383 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.11.27-18.48.07:581][537]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.48.07:586][537]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.48.09:492][751]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.48.09:500][751]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.48.11:500][975]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.48.11:508][976]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.48.11:858][ 15]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Engine/Transient does not exist, will not scan.
+[2023.11.27-18.48.13:509][199]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.48.13:518][199]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.48.15:522][423]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.48.15:538][424]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.48.17:536][642]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.48.17:545][643]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.48.18:905][805]LogBlueprint: Warning: Recursion: Recursion: Struct cannot have itself or a nested struct member referencing itself as a member variable. Struct 'UserDefinedStruct /Game/Blueprints/InventorySystem/Structures/S_ItemInfo.S_ItemInfo', recursive parent 'UserDefinedStruct /Game/Blueprints/InventorySystem/Structures/S_ItemInfo.S_ItemInfo'
+[2023.11.27-18.48.19:545][841]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.48.19:573][841]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.48.21:551][ 61]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.48.21:558][ 62]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.48.23:047][239]LogBlueprint: Warning: Recursion: Recursion: Struct cannot have itself or a nested struct member referencing itself as a member variable. Struct 'UserDefinedStruct /Game/Blueprints/InventorySystem/Structures/S_ItemInfo.S_ItemInfo', recursive parent 'UserDefinedStruct /Game/Blueprints/InventorySystem/Structures/S_ItemInfo.S_ItemInfo'
+[2023.11.27-18.48.23:559][265]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.48.23:565][265]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.48.24:764][355]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.48.24:982][356]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.48.26:772][361]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.48.26:982][362]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.48.28:779][367]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.48.28:981][368]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.48.30:785][373]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.48.30:983][374]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.48.32:792][379]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.48.32:981][380]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.48.34:800][385]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.48.34:981][386]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.48.36:808][391]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.48.36:982][392]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.48.38:814][397]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.48.38:981][398]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.48.40:821][403]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.48.40:826][403]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.48.42:827][623]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.48.42:834][623]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.48.44:834][844]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.48.44:839][844]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.48.46:842][ 65]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.48.46:847][ 65]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.48.48:357][239]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.11.27-18.48.48:357][239]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/DefaultMap' took 0.015
+[2023.11.27-18.48.48:358][239]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/InventorySystem/Structures/S_ItemInfo] ([1] browsable assets)...
+[2023.11.27-18.48.48:358][239]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/InventorySystem/Structures/S_ItemInfo]
+[2023.11.27-18.48.48:359][239]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/InventorySystem/Structures/S_ItemInfo_Auto1
+[2023.11.27-18.48.48:359][239]LogSavePackage: Moving '../../../../../Unreal/Projects/InventorySystem/Saved/S_ItemInfo_Auto1627C16DC42EF3C1A0280538336AA4847.tmp' to '../../../../../Unreal/Projects/InventorySystem/Saved/Autosaves/Game/Blueprints/InventorySystem/Structures/S_ItemInfo_Auto1.uasset'
+[2023.11.27-18.48.48:359][239]LogFileHelpers: Auto-saving content packages took 0.001
+[2023.11.27-18.48.48:854][278]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.48.48:878][278]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.48.50:866][497]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.48.50:871][497]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.48.52:976][717]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.48.52:986][717]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.48.54:884][924]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.48.54:890][924]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.48.56:890][143]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.48.56:897][143]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.48.58:897][362]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.48.58:901][362]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.49.01:004][581]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.49.01:018][582]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.49.03:013][787]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.49.03:018][787]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.49.04:921][993]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.49.04:927][993]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.49.05:276][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.11.27-18.49.06:175][ 34]LogSlate: Window 'Delete Assets' being destroyed
+[2023.11.27-18.49.06:187][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.11.27-18.49.06:193][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.11.27-18.49.06:199][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.11.27-18.49.06:326][ 36]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.49.06:333][ 36]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.49.07:225][143]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-18.49.07:245][143]LogSavePackage: Moving output files for package: /Game/Blueprints/InventorySystem/Structures/S_ItemInfo
+[2023.11.27-18.49.07:245][143]LogSavePackage: Moving '../../../../../Unreal/Projects/InventorySystem/Saved/S_ItemInfoC09FA134412A46DF0C00A1AC075994DF.tmp' to '../../../../../Unreal/Projects/InventorySystem/Content/Blueprints/InventorySystem/Structures/S_ItemInfo.uasset'
+[2023.11.27-18.49.07:251][143]LogFileHelpers: InternalPromptForCheckoutAndSave took 25 ms (total: 381 ms)
+[2023.11.27-18.49.07:252][143]AssetCheck: New page: Asset Save: S_ItemInfo
+[2023.11.27-18.49.07:252][143]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/Blueprints/InventorySystem/Structures/S_ItemInfo.S_ItemInfo
+[2023.11.27-18.49.08:331][260]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.49.08:337][260]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.49.10:337][487]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.49.10:555][488]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.49.12:343][532]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.49.12:348][532]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.49.14:350][757]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.49.14:358][758]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.49.16:357][976]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.49.16:375][976]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.49.18:065][175]LogContentBrowser: Deferred new asset file creation: NewUserDefinedStruct
+[2023.11.27-18.49.18:068][175]LogContentBrowser: Creating deferred item: NewUserDefinedStruct
+[2023.11.27-18.49.18:070][176]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedStruct).
+[2023.11.27-18.49.18:365][197]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.49.18:372][197]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.49.20:371][422]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.49.20:376][422]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.49.21:571][565]LogContentBrowser: Attempting asset rename: NewUserDefinedStruct -> S_ItemContainer
+[2023.11.27-18.49.21:586][565]LogContentBrowser: End creating deferred item NewUserDefinedStruct
+[2023.11.27-18.49.21:958][610]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-18.49.21:987][610]LogSavePackage: Moving output files for package: /Game/Blueprints/InventorySystem/Structures/S_ItemContainer
+[2023.11.27-18.49.21:987][610]LogSavePackage: Moving '../../../../../Unreal/Projects/InventorySystem/Saved/S_ItemContainerBBB79147443D79DB013631879D19929C.tmp' to '../../../../../Unreal/Projects/InventorySystem/Content/Blueprints/InventorySystem/Structures/S_ItemContainer.uasset'
+[2023.11.27-18.49.21:993][610]LogFileHelpers: InternalPromptForCheckoutAndSave took 34 ms (total: 416 ms)
+[2023.11.27-18.49.21:993][610]AssetCheck: New page: Asset Save: S_ItemContainer
+[2023.11.27-18.49.21:993][610]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/Blueprints/InventorySystem/Structures/S_ItemContainer.S_ItemContainer
+[2023.11.27-18.49.22:376][642]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.49.22:382][642]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.49.24:382][867]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.49.24:388][867]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.49.26:388][ 89]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.49.26:400][ 90]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.49.28:394][312]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.49.28:399][312]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.49.30:400][533]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.49.30:407][534]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.49.32:406][758]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.49.32:412][759]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.49.34:411][976]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.49.34:417][976]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.49.36:417][201]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.49.36:423][201]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.49.38:424][425]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.49.38:434][425]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.49.39:387][539]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-18.49.39:411][539]LogSavePackage: Moving output files for package: /Game/Blueprints/InventorySystem/Structures/S_ItemInfo
+[2023.11.27-18.49.39:411][539]LogSavePackage: Moving '../../../../../Unreal/Projects/InventorySystem/Saved/S_ItemInfoF47B65D9473413060C3178AF0A0D6516.tmp' to '../../../../../Unreal/Projects/InventorySystem/Content/Blueprints/InventorySystem/Structures/S_ItemInfo.uasset'
+[2023.11.27-18.49.39:416][539]LogFileHelpers: InternalPromptForCheckoutAndSave took 29 ms (total: 445 ms)
+[2023.11.27-18.49.39:417][539]AssetCheck: New page: Asset Save: S_ItemInfo
+[2023.11.27-18.49.39:417][539]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/Blueprints/InventorySystem/Structures/S_ItemInfo.S_ItemInfo
+[2023.11.27-18.49.40:432][647]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.49.40:438][647]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.49.41:630][787]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-18.49.41:655][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DefaultMap" FILE="../../../../../Unreal/Projects/InventorySystem/Content/Maps/DefaultMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.27-18.49.41:669][787]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.11.27-18.49.41:674][787]LogSavePackage: Moving output files for package: /Game/Maps/DefaultMap
+[2023.11.27-18.49.41:674][787]LogSavePackage: Moving '../../../../../Unreal/Projects/InventorySystem/Saved/DefaultMapEAD725D243642092C714709A865CE4F8.tmp' to '../../../../../Unreal/Projects/InventorySystem/Content/Maps/DefaultMap.umap'
+[2023.11.27-18.49.41:676][787]LogFileHelpers: Saving map 'DefaultMap' took 0.020
+[2023.11.27-18.49.41:683][787]LogFileHelpers: InternalPromptForCheckoutAndSave took 52 ms (total: 498 ms)
+[2023.11.27-18.49.41:684][787]AssetCheck: New page: Asset Save: DefaultMap
+[2023.11.27-18.49.41:684][787]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/DefaultMap.DefaultMap
+[2023.11.27-18.49.42:439][863]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.49.42:445][863]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.49.44:446][ 87]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.49.44:452][ 87]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.49.44:919][143]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-18.49.44:947][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DefaultMap" FILE="../../../../../Unreal/Projects/InventorySystem/Content/Maps/DefaultMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.27-18.49.44:962][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.11.27-18.49.44:967][143]LogSavePackage: Moving output files for package: /Game/Maps/DefaultMap
+[2023.11.27-18.49.44:967][143]LogSavePackage: Moving '../../../../../Unreal/Projects/InventorySystem/Saved/DefaultMap4C24C6ED42EC9F695429079DB62B7F1B.tmp' to '../../../../../Unreal/Projects/InventorySystem/Content/Maps/DefaultMap.umap'
+[2023.11.27-18.49.44:969][143]LogFileHelpers: Saving map 'DefaultMap' took 0.021
+[2023.11.27-18.49.44:975][143]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms (total: 554 ms)
+[2023.11.27-18.49.44:977][143]AssetCheck: New page: Asset Save: DefaultMap
+[2023.11.27-18.49.44:977][143]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/DefaultMap.DefaultMap
+[2023.11.27-18.49.46:452][306]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.49.46:460][306]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.49.46:965][365]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-18.49.46:965][365]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-18.49.48:204][510]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-18.49.48:228][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DefaultMap" FILE="../../../../../Unreal/Projects/InventorySystem/Content/Maps/DefaultMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.27-18.49.48:244][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.11.27-18.49.48:249][510]LogSavePackage: Moving output files for package: /Game/Maps/DefaultMap
+[2023.11.27-18.49.48:250][510]LogSavePackage: Moving '../../../../../Unreal/Projects/InventorySystem/Saved/DefaultMap3A71580E4BA5939037BADF8C31EFDB33.tmp' to '../../../../../Unreal/Projects/InventorySystem/Content/Maps/DefaultMap.umap'
+[2023.11.27-18.49.48:252][510]LogFileHelpers: Saving map 'DefaultMap' took 0.024
+[2023.11.27-18.49.48:258][510]LogFileHelpers: InternalPromptForCheckoutAndSave took 54 ms (total: 609 ms)
+[2023.11.27-18.49.48:260][510]AssetCheck: New page: Asset Save: DefaultMap
+[2023.11.27-18.49.48:260][510]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/DefaultMap.DefaultMap
+[2023.11.27-18.49.48:460][520]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.49.48:466][520]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.49.50:466][745]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.49.50:471][745]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.49.52:471][970]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.49.52:476][970]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.49.54:478][195]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.49.54:484][195]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.49.56:484][420]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.49.56:488][420]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.49.57:992][598]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-18.49.58:015][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DefaultMap" FILE="../../../../../Unreal/Projects/InventorySystem/Content/Maps/DefaultMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.27-18.49.58:032][598]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.11.27-18.49.58:036][598]LogSavePackage: Moving output files for package: /Game/Maps/DefaultMap
+[2023.11.27-18.49.58:037][598]LogSavePackage: Moving '../../../../../Unreal/Projects/InventorySystem/Saved/DefaultMap011110FB43338128603609B774C1DD01.tmp' to '../../../../../Unreal/Projects/InventorySystem/Content/Maps/DefaultMap.umap'
+[2023.11.27-18.49.58:039][598]LogFileHelpers: Saving map 'DefaultMap' took 0.023
+[2023.11.27-18.49.58:044][598]LogFileHelpers: InternalPromptForCheckoutAndSave took 52 ms (total: 661 ms)
+[2023.11.27-18.49.58:045][598]AssetCheck: New page: Asset Save: DefaultMap
+[2023.11.27-18.49.58:045][598]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/DefaultMap.DefaultMap
+[2023.11.27-18.49.58:491][636]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.49.58:496][636]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.50.00:498][861]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.50.00:504][861]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.50.02:506][ 86]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.50.02:513][ 86]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.50.04:514][310]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.50.04:520][310]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.50.06:522][534]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.50.06:529][534]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.50.08:531][757]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.50.08:538][757]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.50.10:538][979]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.50.10:544][979]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.50.12:545][201]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.50.12:550][201]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.50.13:869][357]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-18.50.13:903][357]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DefaultMap" FILE="../../../../../Unreal/Projects/InventorySystem/Content/Maps/DefaultMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.27-18.50.13:919][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.11.27-18.50.13:924][357]LogSavePackage: Moving output files for package: /Game/Maps/DefaultMap
+[2023.11.27-18.50.13:924][357]LogSavePackage: Moving '../../../../../Unreal/Projects/InventorySystem/Saved/DefaultMap7377D5BE4C03E90C855A9988D643F086.tmp' to '../../../../../Unreal/Projects/InventorySystem/Content/Maps/DefaultMap.umap'
+[2023.11.27-18.50.13:926][357]LogFileHelpers: Saving map 'DefaultMap' took 0.023
+[2023.11.27-18.50.13:933][357]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 725 ms)
+[2023.11.27-18.50.13:934][357]AssetCheck: New page: Asset Save: DefaultMap
+[2023.11.27-18.50.13:934][357]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/DefaultMap.DefaultMap
+[2023.11.27-18.50.14:551][413]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.50.14:559][414]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.50.15:564][530]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-18.50.15:593][530]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DefaultMap" FILE="../../../../../Unreal/Projects/InventorySystem/Content/Maps/DefaultMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.27-18.50.15:608][530]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.11.27-18.50.15:612][530]LogSavePackage: Moving output files for package: /Game/Maps/DefaultMap
+[2023.11.27-18.50.15:612][530]LogSavePackage: Moving '../../../../../Unreal/Projects/InventorySystem/Saved/DefaultMap496D77E449C3DE26F184D38DA502EEBA.tmp' to '../../../../../Unreal/Projects/InventorySystem/Content/Maps/DefaultMap.umap'
+[2023.11.27-18.50.15:614][530]LogFileHelpers: Saving map 'DefaultMap' took 0.022
+[2023.11.27-18.50.15:621][530]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 783 ms)
+[2023.11.27-18.50.15:623][530]AssetCheck: New page: Asset Save: DefaultMap
+[2023.11.27-18.50.15:623][530]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/DefaultMap.DefaultMap
+[2023.11.27-18.50.16:559][624]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.50.16:564][624]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.50.18:566][846]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.50.18:573][846]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.50.20:572][ 67]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.50.20:578][ 67]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.50.22:581][288]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.50.22:589][288]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.50.24:588][508]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.50.24:593][508]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.50.26:595][728]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.50.26:601][728]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.50.28:601][948]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.50.28:607][948]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.50.30:608][168]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.50.30:614][168]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.50.32:615][388]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.50.32:622][388]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.50.34:623][607]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.50.34:629][607]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.50.36:629][826]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.50.36:635][826]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.50.38:635][ 45]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.50.38:641][ 45]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.50.40:742][242]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.50.40:934][243]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.50.42:753][248]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.50.42:934][249]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.50.44:759][254]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.50.44:934][255]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.50.46:767][260]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.50.46:935][261]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.50.48:773][266]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.50.48:935][267]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.50.50:780][272]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.50.50:934][273]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.50.52:785][278]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.50.52:936][279]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.50.54:792][284]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.50.54:936][285]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.50.56:799][290]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.50.56:936][291]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.50.58:806][296]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.50.58:936][297]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.51.00:712][302]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.51.00:937][303]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.51.02:719][308]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.51.02:937][309]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.51.04:726][314]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.51.04:939][315]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.51.06:732][320]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.51.06:938][321]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.51.08:739][326]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.51.08:939][327]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.51.10:747][332]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.51.10:939][333]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.51.12:755][338]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.51.12:939][339]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.51.14:763][344]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.51.14:939][345]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.51.16:771][350]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.51.16:941][351]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.51.18:780][356]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.51.18:941][357]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.51.20:789][362]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.51.20:941][363]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.51.22:798][368]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.51.22:941][369]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.51.24:805][374]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.51.24:942][375]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.51.26:715][380]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.51.26:941][381]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.51.28:724][386]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.51.28:941][387]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.51.30:733][392]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.51.30:942][393]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.51.32:742][398]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.51.32:942][399]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.51.34:752][404]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.51.34:942][405]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.51.36:759][410]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.51.36:942][411]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.51.38:768][416]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.51.38:941][417]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.51.40:777][422]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.51.40:942][423]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.51.42:784][428]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.51.42:942][429]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.51.44:792][434]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.51.44:942][435]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.51.46:800][440]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.51.46:942][441]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.51.48:809][446]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.51.48:943][447]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.51.50:717][452]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.51.50:943][453]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.51.52:725][458]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.51.52:944][459]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.51.54:736][464]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.51.54:946][465]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.51.56:744][470]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.51.56:944][471]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.51.58:751][476]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.51.58:943][477]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.52.00:760][482]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.52.00:943][483]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.52.02:767][488]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.52.02:944][489]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.52.04:772][494]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.52.04:944][495]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.52.06:779][500]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.52.06:945][501]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.52.08:784][506]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.52.08:944][507]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.52.10:793][512]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.52.10:948][513]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.52.12:803][635]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.52.12:808][635]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.52.14:809][853]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.52.14:815][853]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.52.16:815][ 71]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.52.16:820][ 71]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.52.19:022][204]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.52.19:230][205]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.52.21:030][210]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.52.21:230][211]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.52.23:038][216]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.52.23:230][217]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.52.25:047][222]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.52.25:230][223]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.52.27:055][228]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.52.27:230][229]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.52.29:063][234]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.52.29:229][235]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.52.31:070][240]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.52.31:230][241]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.52.33:076][246]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.52.33:232][247]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.52.35:082][252]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.52.35:232][253]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.52.37:088][258]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.52.37:232][259]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.52.39:095][264]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.52.39:232][265]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.52.41:103][270]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.52.41:233][271]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.52.43:011][276]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.52.43:233][277]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.52.45:019][282]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.52.45:233][283]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.52.47:026][288]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.52.47:232][289]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.52.49:033][294]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.52.49:232][295]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.52.51:041][300]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.52.51:233][301]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.52.53:048][306]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.52.53:234][307]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.52.55:053][312]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.52.55:233][313]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.52.57:060][318]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.52.57:233][319]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.52.59:066][324]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.52.59:233][325]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.53.01:074][330]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.53.01:234][331]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.53.03:081][336]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.53.03:234][337]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.53.05:087][342]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.53.05:234][343]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.53.07:093][348]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.53.07:236][349]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.53.09:099][354]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.53.09:236][355]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.53.11:007][360]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.53.11:236][361]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.53.13:014][366]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.53.13:236][367]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.53.15:021][372]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.53.15:236][373]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.53.17:025][378]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.53.17:237][379]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.53.19:032][384]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.53.19:236][385]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.53.21:038][390]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.53.21:237][391]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.53.23:044][396]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.53.23:237][397]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.53.25:051][402]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.53.25:237][403]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.53.27:059][408]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.53.27:237][409]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.53.29:066][414]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.53.29:238][415]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.53.31:073][420]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.53.31:239][421]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.53.33:080][426]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.53.33:239][427]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.53.35:087][432]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.53.35:238][433]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.53.37:095][438]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.53.37:239][439]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.53.39:101][444]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.53.39:238][445]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.27-18.53.41:108][450]LogUdpMessaging: Warning: Failed to join multicast group '142.68.73.232:6666' on detected local interface '127.0.0.1'
+[2023.11.27-18.53.41:239][451]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
